@@ -15,6 +15,8 @@ namespace OOP
     {
         static void Main(string[] args)
         {
+            // Próba TT
+
             //Pojazd pojazd = new Pojazd();
             //pojazd.Uruchom();
 
